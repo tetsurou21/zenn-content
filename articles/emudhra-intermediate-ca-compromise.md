@@ -3,7 +3,7 @@ title: "eMudhra中間CA証明書の秘密鍵危殆化インシデント"
 emoji: "🚨"
 type: "tech"
 topics: ["security", "tls", "cryptography"]
-published: false
+published: true
 ---
 
 ## 概要
