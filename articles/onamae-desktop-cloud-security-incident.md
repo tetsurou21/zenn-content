@@ -1,9 +1,9 @@
 ---
-title: "GMO お名前.com デスクトップクラウドへの不正アクセス"
+title: "GMOが提供する「お名前.com デスクトップクラウド」への不正アクセス"
 emoji: "🚨"
 type: "tech"
 topics: ["security", "incident", "windows", "rdp", "cloud"]
-published: false
+published: true
 ---
 
 ## 概要
