@@ -10,7 +10,7 @@
 
 ```markdown
 ---
-title: "【CVE-XXXX-YYYY】<対象ソフト/ライブラリ名>の<脆弱性の種類>脆弱性"
+title: "【CVE-XXXX-YYYY】<脆弱性の簡単な説明>（<脆弱性の通称>）"
 emoji: "🛡️"
 type: "tech"
 topics: ["security", "<関連技術1>", "<関連技術2>"]
